@@ -288,7 +288,10 @@ Behavioral patterns might include
 6. Triggers e.g response of digital marketing 
 
 
-
+###  Why even bother?
+Because of the following
+1. Better  matching of product to specific customer 
+2. 
 
 
 

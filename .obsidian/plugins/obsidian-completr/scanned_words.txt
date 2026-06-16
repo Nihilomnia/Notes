@@ -3226,6 +3226,7 @@ Be
 Barriers
 Behavioral
 Bad
+Bases
 flow
 first
 further
@@ -3504,6 +3505,7 @@ Is
 Integration
 Intermediate
 Images
+IMG
 HLT
 High
 HLLs
@@ -4604,6 +4606,7 @@ jIb
 joining
 job
 junior
+jpeg
 VO
 Vt
 VQ
