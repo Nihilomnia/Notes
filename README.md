@@ -5,4 +5,4 @@ There might be some miscellaneous things here as well which would get deleted on
 
 # Subjects
 Business (eduqas) and Computer Sc(OCR)
-![[IMG_0198.jpeg]]
+![](</IMG_0198.jpeg>)

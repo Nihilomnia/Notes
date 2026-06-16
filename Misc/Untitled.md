@@ -1,6 +1,6 @@
 
 
-![[Pasted image 20260604090606.png]]
+![](</Pasted image 20260604090606.png>)
 
 
 

@@ -1,4 +1,6 @@
 {
   "showLineNumber": false,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "absolute"
 }

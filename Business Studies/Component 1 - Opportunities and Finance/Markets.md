@@ -243,7 +243,7 @@ Market Structures can be separated into perfect competition and imperfect compet
 
 
 
-![[Pasted image 20260614200123.png]]
+![](</Pasted image 20260614200123.png>)
 
 
 ### Perfect Competition 

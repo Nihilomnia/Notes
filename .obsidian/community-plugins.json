@@ -1,5 +1,8 @@
 [
   "obsidian-git",
   "obsidian-completr",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "backlink-cache",
+  "better-markdown-links",
+  "consistent-attachments-and-links"
 ]

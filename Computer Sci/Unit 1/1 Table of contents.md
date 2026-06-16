@@ -1,1 +1,1 @@
-![[1 Table of Contents.base]]
+![](</Computer Sci/Bases/1 Table of Contents.base>)
