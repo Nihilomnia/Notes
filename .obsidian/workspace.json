@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,8 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f5fe0fa68d0830ed",
+  "active": "0f89d216fa64d1a1",
   "lastOpenFiles": [
+    "Business Studies/Images/Pasted image 20260614200123.png",
+    "Business Studies/Images",
+    "Business Studies/Pasted image 20260614200123.png",
     "Misc/Pasted image 20260604090606.png",
     "Misc/Planning for Personal Statement.md",
     "Misc/Untitled.md",
@@ -232,8 +234,6 @@
     "Computer Sci/Computer Sci.md",
     "Business Studies",
     "Misc/Liarary stuff",
-    "Computer Sci/Images/Pasted image 20260523163553.png",
-    "Computer Sci/Images",
-    "Misc"
+    "Computer Sci/Images"
   ]
 }

@@ -48,4 +48,12 @@ Keep it personal, its about you.
 
 
 try to understand the jargon
+
 think about university experience  that i might want to visit 
+
+
+
+
+
+
+## The Actual Write up
