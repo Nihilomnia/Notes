@@ -1,0 +1,14 @@
+properties:
+  file.name:
+    displayName: Topics
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.fullname.startsWith("1.")
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
