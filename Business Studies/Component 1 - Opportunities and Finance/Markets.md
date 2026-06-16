@@ -291,7 +291,8 @@ Behavioral patterns might include
 ###  Why even bother?
 Because of the following
 1. Better  matching of product to specific customer 
-2. 
+2. Helps with new product development
+3. Hi
 
 
 
