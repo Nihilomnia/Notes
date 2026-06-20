@@ -1,2 +1,0 @@
-
-Yo twin please don't vote to get rid of the bishops as they serve as a neutral party that could benefit whole country however i believe that  restrictions should be put in place such as the bloc voting they currently perform also if possible other religious leaders could included to further show inclusiveness in the house of parliament
