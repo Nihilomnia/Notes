@@ -15,6 +15,8 @@ Since all of my a-levels are all non-care based subjects i should target a piece
 
 so far i think i can do either Operating systems / Linux or AI and its history and how it works 
 
+If I am going to talk about AI i can talk about my locally  run AI (qwen3:4b-instruct) on my Arch  Laptop
+
 
 Section 3
 What else have you done to prepare outside of education,  and why are these are experiences useful?

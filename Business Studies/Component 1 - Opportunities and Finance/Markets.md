@@ -252,6 +252,10 @@ Characteristics:
 1. Many buyers and sellers which are relatively small and act independently
 2. Sellers are price takers
 3. Low barriers to entry and exit from the market 
+4. Homogeneous products  (This is means that the products are the same)
+5. Firms are short-rum profit maximisers
+6. Factors of production are extremely mobile  - (Land,Labor ,Captial , entrepreneurship)
+7. Participants have perfect information (No information is hidden from all parties)
 
 
 ### Types of Segmentation 

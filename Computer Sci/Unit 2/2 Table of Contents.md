@@ -1,1 +1,1 @@
-![](</Computer Sci/Bases/2 Table of Contents.base>)
+![](</Computer Sci/Bases/2 Table of Contents.base>)[2.1.2 -  Thinking Ahead](</Computer Sci/Unit 2/2.1.2 -  Thinking Ahead.md>)
