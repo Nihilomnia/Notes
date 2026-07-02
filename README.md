@@ -10,7 +10,7 @@ These notes are going to be as helpful as I can make it however its very informa
 
 # Subjects
 Business (Eduqas) and Computer Sci (OCR)
-![](</IMG_0198.jpeg>)
+![](</Misc/Images/IMG_0198.jpeg>)
 
 And yes I am a Megumin Fan (Very Very VERY unprofessional but oh well :P).
 
@@ -18,9 +18,16 @@ Also I think i used the wrong license but i dunno who to change it.
 
 One more for the road
 
-![](</IMG_0158.jpg>)
+![](</Misc/Images/IMG_0158.jpg>)
 
 
 JUST one more
 
-![](</moremegumin.jpg>)
+![](</Misc/Images/moremegumin.jpg>)
+
+
+
+
+Ok this is the last one 
+
+![408](</Misc/Images/Megumin2.png>)
