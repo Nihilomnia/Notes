@@ -6,6 +6,8 @@ These are notes for my A-levels that anyone can read if they want - Would you wa
 
 There might be some miscellaneous things here as well which would get deleted once i have no use for them :P
 
+These notes are going to be as helpful as I can make it however its very informal as a I was originally writing these for fun and make own use.
+
 # Subjects
 Business (Eduqas) and Computer Sci (OCR)
 ![](</IMG_0198.jpeg>)

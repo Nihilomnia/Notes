@@ -258,6 +258,28 @@ Characteristics:
 7. Participants have perfect information (No information is hidden from all parties)
 
 
+Impacts
+Impacts on business behavior 
+1. Unable to set their own price.
+2. If they lower prices they losing out on profits as the customer is prepared to pay more.
+3. NO barriers to entry or exit mean that firms can come and go from the the market when they like.
+4. The product that each firm makes is a perfect substitute for other rival products. This means  that there are no brands.
+
+
+
+
+| Advantages     | Disadvantages |
+| -------------- | ------------- |
+| Efficiency<br> |               |
+|                |               |
+
+
+
+
+
+
+
+
 ### Types of Segmentation 
 
 #### Lifestyle
@@ -296,7 +318,9 @@ Behavioral patterns might include
 Because of the following
 1. Better  matching of product to specific customer 
 2. Helps with new product development
-3. Hi
+3. Helps make the marketing mix more effective 
+4. Higher levels of customer of customer loyalty
+5. It enables i
 
 
 
